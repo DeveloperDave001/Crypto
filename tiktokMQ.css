@@ -1,0 +1,48 @@
+
+@media screen and (max-width:1300px){
+  .pics img{
+    right: -5%;
+    bottom: -10;
+    width: 500px;
+  }
+  
+}
+
+@media screen and (max-width:1200px){
+
+.pics img{
+  bottom: -15%;
+}
+.text h1{
+  font-size: 4.5rem;
+}
+}
+ 
+ @media screen and (max-width:1052px){
+
+.pics img{
+  right: -20%;
+}
+.text h1{
+  font-size: 4rem;
+}
+nav ul li a{
+  font-size: 13px;
+}
+nav ul li a:hover{
+  font-size: 12px;
+}
+.signup{
+  font-size: 13px;
+}
+}
+ 
+
+@media screen and (max-width:992px){
+.logo2{
+  visibility: visible;
+}
+
+  }
+  
+ 
